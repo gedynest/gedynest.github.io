@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gedynest.github.io/sitemap.html.gz
+Sitemap: https://gedynest.github.io/app/sitemap.html.gz
+Sitemap: https://gedynest.github.io/assets/sitemap.html.gz
+Sitemap: https://gedynest.github.io/css/sitemap.html.gz
+Sitemap: https://gedynest.github.io/includes/sitemap.html.gz
+Sitemap: https://gedynest.github.io/item/sitemap.html.gz
+Sitemap: https://gedynest.github.io/src/sitemap.html.gz
